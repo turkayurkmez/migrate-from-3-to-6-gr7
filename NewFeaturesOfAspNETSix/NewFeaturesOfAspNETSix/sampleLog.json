@@ -1,0 +1,105 @@
+{
+  {
+    "EventId": 0,
+    "LogLevel": "Information",
+    "Category": "NewFeaturesOfAspNETSix",
+    "Message": "Ortam ad\u0131:Development",
+    "State": {
+      "Message": "Ortam ad\u0131:Development",
+      "{OriginalFormat}": "Ortam ad\u0131:Development"
+    }
+  },
+  {
+    "EventId": 0,
+    "LogLevel": "Information",
+    "Category": "NewFeaturesOfAspNETSix",
+    "Message": "Uygulama ad\u0131:NewFeaturesOfAspNETSix",
+    "State": {
+      "Message": "Uygulama ad\u0131:NewFeaturesOfAspNETSix",
+      "{OriginalFormat}": "Uygulama ad\u0131:NewFeaturesOfAspNETSix"
+    }
+  },
+  {
+    "EventId": 0,
+    "LogLevel": "Information",
+    "Category": "NewFeaturesOfAspNETSix",
+    "Message": "\u0130\u00E7erik K\u00F6k Dizini:C:\\Users\\turka\\source\\repos\\Kurumsal\\Halkbank\\MigrateFromTwoVersions\\Group 7\\NewFeaturesOfAspNETSix\\NewFeaturesOfAspNETSix\\",
+    "State": {
+      "Message": "\u0130\u00E7erik K\u00F6k Dizini:C:\\Users\\turka\\source\\repos\\Kurumsal\\Halkbank\\MigrateFromTwoVersions\\Group 7\\NewFeaturesOfAspNETSix\\NewFeaturesOfAspNETSix\\",
+      "{OriginalFormat}": "\u0130\u00E7erik K\u00F6k Dizini:C:\\Users\\turka\\source\\repos\\Kurumsal\\Halkbank\\MigrateFromTwoVersions\\Group 7\\NewFeaturesOfAspNETSix\\NewFeaturesOfAspNETSix\\"
+    }
+  },
+  {
+    "EventId": 0,
+    "LogLevel": "Information",
+    "Category": "NewFeaturesOfAspNETSix",
+    "Message": "Web k\u00F6k klas\u00F6r\u00FCn\u00FCn dizini:C:\\Users\\turka\\source\\repos\\Kurumsal\\Halkbank\\MigrateFromTwoVersions\\Group 7\\NewFeaturesOfAspNETSix\\NewFeaturesOfAspNETSix\\wwwroot",
+    "State": {
+      "Message": "Web k\u00F6k klas\u00F6r\u00FCn\u00FCn dizini:C:\\Users\\turka\\source\\repos\\Kurumsal\\Halkbank\\MigrateFromTwoVersions\\Group 7\\NewFeaturesOfAspNETSix\\NewFeaturesOfAspNETSix\\wwwroot",
+      "{OriginalFormat}": "Web k\u00F6k klas\u00F6r\u00FCn\u00FCn dizini:C:\\Users\\turka\\source\\repos\\Kurumsal\\Halkbank\\MigrateFromTwoVersions\\Group 7\\NewFeaturesOfAspNETSix\\NewFeaturesOfAspNETSix\\wwwroot"
+    }
+  },
+  {
+    "EventId": 0,
+    "LogLevel": "Warning",
+    "Category": "NewFeaturesOfAspNETSix",
+    "Message": "Gelen de\u011Fer: Bu mesaj ortam \u0027development\u0027 ise kullan\u0131lacak!",
+    "State": {
+      "Message": "Gelen de\u011Fer: Bu mesaj ortam \u0027development\u0027 ise kullan\u0131lacak!",
+      "{OriginalFormat}": "Gelen de\u011Fer: Bu mesaj ortam \u0027development\u0027 ise kullan\u0131lacak!"
+    }
+  },
+  {
+    "EventId": 14,
+    "LogLevel": "Information",
+    "Category": "Microsoft.Hosting.Lifetime",
+    "Message": "Now listening on: https://localhost:7058",
+    "State": {
+      "Message": "Now listening on: https://localhost:7058",
+      "address": "https://localhost:7058",
+      "{OriginalFormat}": "Now listening on: {address}"
+    }
+  },
+  {
+    "EventId": 14,
+    "LogLevel": "Information",
+    "Category": "Microsoft.Hosting.Lifetime",
+    "Message": "Now listening on: http://localhost:5041",
+    "State": {
+      "Message": "Now listening on: http://localhost:5041",
+      "address": "http://localhost:5041",
+      "{OriginalFormat}": "Now listening on: {address}"
+    }
+  },
+  {
+    "EventId": 0,
+    "LogLevel": "Information",
+    "Category": "Microsoft.Hosting.Lifetime",
+    "Message": "Application started. Press Ctrl\u002BC to shut down.",
+    "State": {
+      "Message": "Application started. Press Ctrl\u002BC to shut down.",
+      "{OriginalFormat}": "Application started. Press Ctrl\u002BC to shut down."
+    }
+  },
+  {
+    "EventId": 0,
+    "LogLevel": "Information",
+    "Category": "Microsoft.Hosting.Lifetime",
+    "Message": "Hosting environment: Development",
+    "State": {
+      "Message": "Hosting environment: Development",
+      "envName": "Development",
+      "{OriginalFormat}": "Hosting environment: {envName}"
+    }
+  },
+  {
+    "EventId": 0,
+    "LogLevel": "Information",
+    "Category": "Microsoft.Hosting.Lifetime",
+    "Message": "Content root path: C:\\Users\\turka\\source\\repos\\Kurumsal\\Halkbank\\MigrateFromTwoVersions\\Group 7\\NewFeaturesOfAspNETSix\\NewFeaturesOfAspNETSix\\",
+    "State": {
+      "Message": "Content root path: C:\\Users\\turka\\source\\repos\\Kurumsal\\Halkbank\\MigrateFromTwoVersions\\Group 7\\NewFeaturesOfAspNETSix\\NewFeaturesOfAspNETSix\\",
+      "contentRoot": "C:\\Users\\turka\\source\\repos\\Kurumsal\\Halkbank\\MigrateFromTwoVersions\\Group 7\\NewFeaturesOfAspNETSix\\NewFeaturesOfAspNETSix\\",
+      "{OriginalFormat}": "Content root path: {contentRoot}"
+    }
+  }

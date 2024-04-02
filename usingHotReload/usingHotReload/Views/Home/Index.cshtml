@@ -1,0 +1,20 @@
+﻿@model IEnumerable<string>
+@{
+    ViewData["Title"] = "Home Page";
+}
+
+<div class="text-center">
+    <h1 class="display-4">Hoşgeldin</h1>
+    <p>Learn about <a href="https://docs.microsoft.com/aspnet/core">building Web apps with ASP.NET Core</a>.</p>
+    <p>@ViewBag.Name </p>
+    <p>@ViewBag.LastName</p>
+    <p>@ViewBag.Hede</p>
+
+</div>
+
+@foreach (var item in Model)
+{
+    <p>@item</p>
+}
+
+<p>&copy; 2024</p>

@@ -10,4 +10,9 @@
     <Folder Include="alternatewwwwroot\" />
   </ItemGroup>
 
+  <ItemGroup>
+    <PackageReference Include="Autofac.Extensions.DependencyInjection" Version="6.0.0" />
+    <PackageReference Include="Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore" Version="6.0.28" />
+  </ItemGroup>
+
 </Project>

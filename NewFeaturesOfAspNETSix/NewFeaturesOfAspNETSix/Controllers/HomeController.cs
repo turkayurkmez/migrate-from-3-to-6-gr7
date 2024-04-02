@@ -1,5 +1,6 @@
 ﻿using Microsoft.AspNetCore.Mvc;
 using NewFeaturesOfAspNETSix.Models;
+using NewFeaturesOfAspNETSix.Services;
 using System.Diagnostics;
 
 namespace NewFeaturesOfAspNETSix.Controllers
@@ -7,15 +8,18 @@ namespace NewFeaturesOfAspNETSix.Controllers
     public class HomeController : Controller
     {
         private readonly ILogger<HomeController> _logger;
+        private readonly IProductService productService;
 
-        public HomeController(ILogger<HomeController> logger)
+        public HomeController(ILogger<HomeController> logger, IProductService productService)
         {
             _logger = logger;
+            this.productService = productService;
         }
 
         public IActionResult Index()
         {
-            return View();
+
+            return View(productService.GetProducts());
         }
 
         public IActionResult Privacy()
